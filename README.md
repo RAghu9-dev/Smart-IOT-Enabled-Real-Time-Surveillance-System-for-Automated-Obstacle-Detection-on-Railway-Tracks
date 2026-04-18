@@ -1,2 +1,2 @@
-# Smart-IOT-Enabled-Real-Time-Surveillance-System-for-Automated-Obstacle-Detection-on-Railway-Tracks-
+# Smart-IOT-Enabled-Real-Time-Surveillance-System-for-Automated-Obstacle-Detection-on-Railway-Tracks
 This project presents an IoT-based remote surveillance system designed to monitor and track animal movement near railway tracks to  prevent accidents. The system utilizes an ESP32 microcontroller interfaced with various sensors including an ultrasonic sensor and a PIR  sensor to detect the presence of animals or obstacles. 
